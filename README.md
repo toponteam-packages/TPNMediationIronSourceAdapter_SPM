@@ -17,7 +17,7 @@ The TopOn Unity LevelPlay (ironSource) mediation adapter for iOS, distributed vi
    ```
    https://github.com/toponteam-packages/TPNMediationIronSourceAdapter_SPM
    ```
-3. Select **Exact Version** and enter the target version (e.g. `9.3.0-0.2.1`).
+3. Select **Exact Version** and enter the target version (e.g. `90300.2.1`).
 4. Add the `TPNMediationIronSourceAdapter` product to your app target.
 5. In your target's **Build Settings**, add `-ObjC` to **Other Linker Flags**.
 
@@ -27,7 +27,7 @@ The TopOn Unity LevelPlay (ironSource) mediation adapter for iOS, distributed vi
 dependencies: [
     .package(
         url: "https://github.com/toponteam-packages/TPNMediationIronSourceAdapter_SPM.git",
-        exact: "9.3.0-0.2.1"
+        exact: "90300.2.1"
     )
 ]
 ```
