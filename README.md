@@ -5,7 +5,7 @@ The TopOn Unity LevelPlay (ironSource) mediation adapter for iOS, distributed vi
 ## Requirements
 
 - iOS 12.0+
-- Xcode 15.0+
+- Xcode 16.0+
 - TopOn iOS Core SDK (`TPNiOS`) 6.5.0+
 
 ## Installation
