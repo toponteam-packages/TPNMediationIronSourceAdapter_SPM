@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AnyThinkIronSourceAdapter",
-            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkIronSourceAdapter/9.3.0.0.2.1/AnyThinkIronSourceAdapter-9.3.0.0.2.1.zip",
-            checksum: "d7a5b6ee2cd056031affb33028b322069df70627ba41a7055aeff989f492f5bd"
+            url: "https://topon-sdk-release.oss-accelerate.aliyuncs.com/TPN_Release/iosnetwork_2/AnyThinkIronSourceAdapter/9.3.0.0.2.9/AnyThinkIronSourceAdapter-9.3.0.0.2.9.zip",
+            checksum: "0e1a1e412e46d8baa899a87df093a93743abc011723a350f095dd56f1bc9d9b3"
         ),
         .target(
             name: "TPNMediationIronSourceAdapterTarget",
